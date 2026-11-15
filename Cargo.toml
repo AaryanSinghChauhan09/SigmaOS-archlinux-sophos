@@ -7,5 +7,5 @@ description = "SigmaOS archlinux-sophos component (Arch Linux inspired)"
 license = "MIT OR Apache-2.0"
 
 [lib]
-name = "sigmaos_archlinux-sophos"
+name = "sigmaos_archlinux_sophos"
 path = "src/lib.rs"
