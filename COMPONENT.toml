@@ -3,7 +3,7 @@ name = "SigmaOS-archlinux-sophos"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "archlinux-sophos component"
+description = "SigmaOS component repository"
 upstream = []
 
 [contract]
